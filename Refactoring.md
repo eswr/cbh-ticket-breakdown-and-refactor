@@ -91,6 +91,6 @@ describe("deterministicPartitionKey", () => {
 });
 ```
 
-### Explanation:
+### Explanation
 
 The original function has been broken into smaller, more focused functions. each function has single responsibility. Constants have been move to global scope. The tests address edge cases and various input scenarios to help guarantee the robustness of the code.
